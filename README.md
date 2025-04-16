@@ -2,7 +2,7 @@
 
 This machine learning project predicts whether it will rain or not using historical weather data. The goal is to classify weather conditions into "rain" or "no rain" using temperature, humidity, pressure, and other meteorological variables.
 
-This project walks through the full ML pipeline: data cleaning, feature engineering, model training, evaluation, and interpretation — resulting in a high-performing classifier with excellent generalization.
+This project walks through the full ML pipeline: data cleaning, feature engineering, model training, evaluation, and interpretation resulting in a high-performing classifier with excellent generalization.
 
 ---
 
