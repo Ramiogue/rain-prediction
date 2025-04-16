@@ -125,7 +125,7 @@ Top features by importance:
 ## 📂 Files Included
 
 - `weather_forecast_data.csv` — full dataset
-- `weather_forecast_test_data.csv` — test split
+- `weather_forecast_test_data.csv` — unseen dataset
 - `notebook.ipynb` — end-to-end code notebook
 - `README.md` — project documentation
 
