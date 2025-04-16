@@ -48,7 +48,6 @@ To improve generalization, I generated new features to capture meaningful patter
   - `max_depth=3`
   - `min_samples_split=10`
   - `min_samples_leaf=4`
-- **Final Model File**: `rain_predictor_rf.pkl`
 
 ---
 
