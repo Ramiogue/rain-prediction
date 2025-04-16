@@ -132,7 +132,3 @@ Top features by importance:
 
 ---
 
-
-## 👨🏽‍💻 Author
-
-Made with 💡 and ☕ by **Tshepang Ramaoka**
